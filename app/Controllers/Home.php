@@ -11,4 +11,8 @@ class Home extends Controller
 
 	//--------------------------------------------------------------------
 
+	public function mate2()
+	{
+		return view('mate2');
+	}
 }
