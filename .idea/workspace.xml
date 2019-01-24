@@ -2,11 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="780fe091-8aed-4d7d-86d9-06f6827587b0" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/app/Views/mate3.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/Lab03.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Lab03.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/php.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/php.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/Controllers/Home.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Controllers/Home.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Views/mate3.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Views/mate3.php" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -40,8 +36,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/Views/mate3.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="274">
-              <caret line="4546" column="26" lean-forward="true" selection-start-line="4546" selection-start-column="26" selection-end-line="4546" selection-end-column="26" />
+            <state>
+              <caret column="13" selection-start-column="13" selection-end-column="13" />
             </state>
           </provider>
         </entry>
@@ -185,12 +181,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1548363992876</updated>
-      <workItem from="1548363996204" duration="4308000" />
+      <workItem from="1548363996204" duration="4766000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4308000" />
+    <option name="totallyTimeSpent" value="4766000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -244,8 +240,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/Views/mate3.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="274">
-          <caret line="4546" column="26" lean-forward="true" selection-start-line="4546" selection-start-column="26" selection-end-line="4546" selection-end-column="26" />
+        <state>
+          <caret column="13" selection-start-column="13" selection-end-column="13" />
         </state>
       </provider>
     </entry>
