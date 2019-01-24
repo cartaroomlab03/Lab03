@@ -9,13 +9,18 @@ class Home extends Controller
 		return view('welcome_message');
 	}
 
+
+	public function mate4()
+	{
+		return view('mate4);
+	}
+	
 	public function mate3()
     {
         return view('mate3');
 
     }
 
-	//--------------------------------------------------------------------
 
 	public function mate2()
 	{
