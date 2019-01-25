@@ -134,6 +134,9 @@
 			</div>
 
 		</div>
-
+				<li><a href="/home/mate1">Mate 1</a></li>
+				<li><a href="/home/mate2">Mate 2</a></li>
+				<li><a href="/home/mate3">Mate 3</a></li>
+				<li><a href="/home/mate4">Mate 4</a></li>
 	</body>
 </html>
